@@ -14,8 +14,8 @@ import java.util.concurrent.TimeUnit;
 
 public class EmailSender {
 
-    private static final String SENDER_EMAIL = "shaikhusama745@gmail.com";
-    private static final String SENDER_PASSWORD = "vwfi szhm ruqa cbny";
+    private static final String SENDER_EMAIL = "your_email@gmail.com";
+    private static final String SENDER_PASSWORD = "your_password";
 
     public static void main(String[] args) {
         // Path to the Excel file containing recruiter data
